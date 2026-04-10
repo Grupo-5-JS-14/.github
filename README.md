@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="(https://avatars.githubusercontent.com/u/275079489?s=200&v=4)" width="300"/>
+  <img src="https://avatars.githubusercontent.com/u/275079489?s=200&v=4" width="300"/>
 </p>
 
 ---
@@ -87,7 +87,7 @@ Nosso foco é desenvolver aplicações completas, aplicando boas práticas de de
 ## 🔗 Conecte-se conosco
 
 <p align="center">
-  <a href="(https://linktr.ee/grupo_05turmajavascript_14)">💼 LinkedIn</a>
+  <a href="https://linktr.ee/grupo_05turmajavascript_14">💼 LinkedIn</a>
 </p>
 
 ---
