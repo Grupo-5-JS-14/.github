@@ -1,17 +1,3 @@
-<h1 align="center">Grupo 5 - JavaScript 14</h1>
-
-<p align="center">
-  Desenvolvedores Full Stack em formação <br>
-  Generation Brasil <br>
-  Construindo soluções com tecnologia e colaboração
-</p>
-
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/275079489?s=200&v=4" width="300"/>
-</p>
-
----
-
 ## 🌐 Sobre o Grupo
 
 Somos o **Grupo 5 da turma JavaScript 14** da Generation Brasil.  
